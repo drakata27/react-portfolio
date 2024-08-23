@@ -1,0 +1,39 @@
+[
+    {
+      "role": "Media Technology Intern",
+      "organisation": "NBCUniversal",
+      "startDate": "Jul, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Running daily Scrum meetings",
+        "Contributing to sprint planning",
+        "Recording automation regression test results",
+        "Monitoring and reviewing pull requests on GitHub"
+        ],
+      "imageSrc": "history/nbcu.png"
+    },
+    {
+      "role": "Technology Intern",
+      "organisation": "Bright Network, IEUK",
+      "startDate": "Jun, 2023",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Designed a solution about how technology can help reduce carbon footprint", 
+        "Contributed ideas to develop solutions using technology to address environmental challenges",
+        "Engaged in problem-solving discussions within the team to find practical solutions"
+        ],
+      "imageSrc": "history/bn.jpg"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Spotify (run by Speakers for Schools)",
+      "startDate": "Feb, 2021",
+      "endDate": "Feb, 2021",
+      "experiences": [
+        "Conducted market research with other students to identify target audiences and trends",
+        "Presented data collaboratively and effectively through graphs and visuals",
+        "Worked with fellow students to communicate complex ideas effectively"
+      ],
+      "imageSrc": "history/spotify.png"
+    }
+  ]
