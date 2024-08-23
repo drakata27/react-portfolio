@@ -26,5 +26,21 @@
     {
       "title": "Django",
       "imageSrc": "skills/django.png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Jira",
+      "imageSrc": "skills/jira.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/linux.png"
     }
   ]

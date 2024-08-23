@@ -39,7 +39,7 @@
     margin-bottom: 52px;
 }
 
-.contactBtn{
+.contactBtn {
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -48,7 +48,14 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    transition: transform 0.3s ease, background-color 0.3s ease;
 }
+
+.contactBtn:hover {
+    transform: scale(1.05);
+    background-color: rgba(34, 14, 187, 0.863); 
+}
+
 
 .heroImg {
     width: 40%;

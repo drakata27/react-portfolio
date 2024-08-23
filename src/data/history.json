@@ -13,12 +13,27 @@
       "imageSrc": "history/nbcu.png"
     },
     {
+      "role": "Computer Science Student",
+      "organisation": "University of West London",
+      "startDate": "Oct, 2022",
+      "endDate": "Present",
+      "experiences": [
+          "Expected Grade: 1st Class",
+        "ATAL (University's Computing Society)",
+        "Algorithms and Data Structures in Python",
+        "OOP Programming in Java",
+        "Android Development in Java",
+        "Functional programming in Haskell"
+        ],
+      "imageSrc": "history/uwl.jpg"
+    },
+    {
       "role": "Technology Intern",
       "organisation": "Bright Network, IEUK",
       "startDate": "Jun, 2023",
       "endDate": "Jun, 2023",
       "experiences": [
-        "Designed a solution about how technology can help reduce carbon footprint", 
+        "Designed a solution how technology can reduce carbon footprint", 
         "Contributed ideas to develop solutions using technology to address environmental challenges",
         "Engaged in problem-solving discussions within the team to find practical solutions"
         ],
