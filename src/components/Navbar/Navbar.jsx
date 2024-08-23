@@ -7,7 +7,7 @@ const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-        <a href="/" className={styles.title}>Portfolio</a>
+        <a href="/" className={styles.title}>aleksdraka</a>
         <div className={styles.menu}>
             <img 
                 className={styles.menuBtn} 
