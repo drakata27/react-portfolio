@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import styles from './Navbar.module.css'
 import {getImageUrl} from '../../utils'
+
 import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const Navbar = () => {
