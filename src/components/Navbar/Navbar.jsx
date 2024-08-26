@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import styles from './Navbar.module.css'
 import {getImageUrl} from '../../utils'
+import { FaExternalLinkAlt } from 'react-icons/fa';
 
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false)
@@ -26,6 +27,14 @@ const Navbar = () => {
                 <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li>
+                    <a href="https://blog.aleksdraka.online/" 
+                        target='blank'
+                        rel="noopener noreferrer"
+                        >
+                            Blog <FaExternalLinkAlt size={17}/>
+                    </a>
+                </li>
             </ul>
         </div>
     </nav>
