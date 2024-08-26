@@ -32,7 +32,7 @@ const About = () => {
                     <img src={getImageUrl("about/impactIcon.png")} alt="Impact icon" />
                     <div className={styles.aboutItemText}>
                         <h3>Eager to Make an Impact</h3>
-                        <p>I’m excited to apply my growing skills to real-world projects and make a meaningful impact.</p>
+                        <p>I am excited to apply my growing skills to real-world projects and make a meaningful impact.</p>
                     </div>
                 </li>
             </ul>

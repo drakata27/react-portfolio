@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": "SkyLearning",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a cloud web app made to help you learn new skills.",
+      "skills": ["React", "Django", "AWS"],
+      "demo": "https://skylearning.xyz",
+      "source": "https://github.com/drakata27/cloud-learn"
     },
     {
-      "title": "Project B",
+      "title": "Blog",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is a blog website where I write about my interest in technology.",
+      "skills": ["React", "Django", "Python", "JavaScript"],
+      "demo": "https://www.aleksdraka.online",
+      "source": "https://github.com/drakata27/blog-frontend"
     },
     {
-      "title": "Project C",
+      "title": "Andoid E-commerce App",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This is an app that simulates a video game store.",
+      "skills": ["Java", "Firebase", "Android"],
+      "demo": "https://www.youtube.com/watch?v=kpEMa3tU7Ns",
+      "source": "https://github.com/drakata27/android-ecommerce"
     }
   ]
