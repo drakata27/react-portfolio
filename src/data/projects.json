@@ -12,7 +12,7 @@
       "imageSrc": "projects/project.png",
       "description": "This is a blog website where I write about my interest in technology.",
       "skills": ["React", "Django", "Python", "JavaScript"],
-      "demo": "https://www.aleksdraka.online",
+      "demo": "https://blog.aleksdraka.online/",
       "source": "https://github.com/drakata27/blog-frontend"
     },
     {
