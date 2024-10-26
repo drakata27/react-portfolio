@@ -5,10 +5,10 @@
       "startDate": "Jul, 2024",
       "endDate": "Present",
       "experiences": [
+        "Unit testing React application with Jest and RTL",
+        "Monitoring and reviewing pull requests on GitHub",
         "Running daily Scrum meetings",
-        "Contributing to sprint planning",
-        "Recording automation regression test results",
-        "Monitoring and reviewing pull requests on GitHub"
+        "Recording automation regression test results"
         ],
       "imageSrc": "history/nbcu.png"
     },
